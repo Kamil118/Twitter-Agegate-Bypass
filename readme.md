@@ -1,4 +1,4 @@
-This userscript uses FixTwtter API to bypass Twitter's new identity verification in UK and Europe. Upon pressing the hotkey (` by default), it will replace the notification to confirm identity with the media url obtained through FixTwitter.
+This userscript uses FixTwtter API to bypass Twitter's new identity verification in UK and Europe. It automatically replaces the notification to confirm identity with the media url obtained through FixTwitter.
 
 Limitations/Things I would like to add in the future
 
